@@ -1,0 +1,75 @@
+"fAdc|"G"dge d3|"Em"eed "A7"c2F|"Em"G2^G "D7"FAD|
+"G"GBd g3|"G"agg "D7"gf^g|"D"fdd d2B|\
+"D/f+"AFD f2a|"G"g2d B2A|"G"G2B ddB|"C"c2e Bgc|g2g egc|"Am"A6|
+"G"g2a "C"gfe|"A7"edf "D/d"gfg|"G7"g2f g2:|[2"G"g3/2d/2c B3|"Am"c2A FGA|\
+"D7"A2B d2^c|\
+"D7"d2c AGA|
+"G"B2g b2g|"D"fcd A2d|"G"Bdd dBG|"D7"ABA "G7"(3G3/2A/2E/2F/2E/2|
+"C"GGG "C"G2||
+
+
+X: 13
+T:Radmy Ball
+% Nottingham Music Database
+P:AAB
+S:Chris Dewhurst 19
+M:4/4
+L:1/8
+R:Hornpipe
+K:D
+P:A
+cf|"D"f2ed f2f2|"Em"g2f2 B2^d2|"Em"efgg "D"fede|"G"dcBA BdcB|"gbe/2^f/2|"Em"edc|"Em"e2f|
+"Am"e3/2d/2c/2B/2|"Am"A3/2B/2A|"D7"A3/2F/2A|"G"B3/2c/2d|"Em"g2e|"F"f2a|"Bm"f3|"C/e"ed2 "Am"f2e|"D7"d2c|
+"G"dBG|"Am"F2A "E7"FED|"D7"A2G "Am"G2G|"G"F2G "D7/a"AFG|
+"C"c2e "F" a3|"Bb"dcB "Dm"A2F|"G"G2D G2B|"Am"e3 "G7"cBA|"F#m"B4 ||
+
+
+X: 1
+T:Dirne's Reel
+% Nottingham Music Database
+S:Trad
+M:3/4
+L:1/4
+K:Am
+P:A
+g|"Am"f/2e/2d/2c/2d/2c/2|"G"BB/2G/2F/2B/2|"Em"B/2A/2G/2E/2F/2G/2|"Am"A/2B/2A/2F/2G/2E/2:|
+"D"D/2E/2D/2D/2D/2E/2 d/2c/2A/2B/2A/2F/2||/2D/2D/2F/2A/2D/2 GD/2D/2|\
+"G"E/2DX: (F7
+|:"b"fg f3/2a/2|"C"ge^d ece|"G"fg2 gab|"D7"dcd d^c"f#"d\
+||
+
+
+X: 12
+T:The Welm Brband P1y
+% Nottingham Music Database
+S:Chris Dewhurst 1955, via Phil Rowe
+M:6/8
+K:Gm
+D|"G"BGB GGB|"C"c2A G3|"C"(3cBcA G2A|"Cm"dcB ecG|"D7"F2D cFD|
+"G"DGB dBG|"G"GFG "E7"BAG|"Am"Ace "Dm"fed|"Em"edB "G"G\
+:|
+K:Am
+P:/8C/8C/8Ep8g/8f/8"A7"d/2(3e d/2+ec cAA|"Em"e3 g3:|
+P:B
+(3G/2G/2B/2|"A"A2A "C"[c3g3|"D"F2A B3-|2c2 B2A|A2B A2B|"A/c"c2A "E7"^G2A|
+"Am"cBA c3|"G"dBG "3"G3:|
+
+
+X: 67
+T:The The Fluenssamle Sireby
+% Nottingham Music Database
+S:Mick Peat
+M:4/4
+L:1/4
+K:D
+P:A
+:|:A|"D"df dg|"A""f#"fd dB|"Em"d2 fe|"D"d2 -d2|\
+"A7"c/2B/2=c fe|"F#7"Ag2e|"D"f2 f3/2f/2|
+"Em"ee "E7"ge|"D"a2 fA|"D"d2 d2|"C"eg gc|A3g|"G"d4|"Em"g2 -e/2d/2c|
+"G"BG "D"FE|"D"F2 FG|"D"F3/2G/2 Ad|"Bm"de dc|"G"B/2dB/2 Bc|"C"dc cB-|"C"eG2G|B2c|B4|"Am"c3/2d/2 ec|\
+"G"G4-|
+"G"B3/2c/2 -d2|"C"=ee c3/2a/2|"G"B/2^A/2B/2g/2 gf/2d/2|\
+"D7"d2 c2| "G"G2-|D/2D/2E/2d/2 =B3/2d/2|
+"G"dd d||
+K:G
+"G7"b2 "A"a2|"G"g4|"G"a/2g/2f/2e/2 de|"D7/b"d2 "G"AG|"C"E/2D/2E "G"Dd|
